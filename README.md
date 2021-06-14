@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrishikeshkini
+- 👋 Hi, I’m Hrishikesh Kini
 - 👀 I’m interested in Python and machine learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate

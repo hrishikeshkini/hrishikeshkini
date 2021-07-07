@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshkini&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshkini" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hrishikeshkini7" target="blank"><img src="https://img.shields.io/twitter/follow/hrishikeshkini7?logo=twitter&style=for-the-badge" alt="hrishikeshkini7" /></a> </p>
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 
 - 🌱 I’m currently learning **Deep Learning, Data Analysis**
 

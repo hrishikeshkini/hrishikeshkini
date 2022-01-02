@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Deep Learning, Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hrishikeshkini](https://github.com/hrishikeshkini)
+- 👨‍💻 All of my projects are available at [https://hrishikeshkini.github.io/portfolio/](https://hrishikeshkini.github.io/portfolio/)
 
-- 💬 Ask me about **Machine Learning, Databases, Django**
+- 💬 Ask me about **Machine Learning, Databases, Kaggle**
 
 - 📫 How to reach me **hrishikesh.kini.35@gmail.com**
 

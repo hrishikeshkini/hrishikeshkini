@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Kini</h1>
 <h3 align="center">A passionate Data science and Machine Learning enthusiast from India</h3>
 
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
+
 # 💫 About Me:
 🔭 I’m currently working on MLOps and GenAI<br>👯 Im Working as a Data Analyst having more than one year of expirience<br>👨‍💻 All of my projects are available at https://hrishikeshkini.github.io/portfolio/<br>💬 Ask me about Data Analysis, Data Science, Big Data<br>📫 How to reach me hrishikesh.kini.35@gmail.com<br>⚡ Fun fact I think I am Magician.
 
